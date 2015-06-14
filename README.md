@@ -18,8 +18,13 @@ Configure ```test.sublime-project``` file:
             },
             "url": "http://localhost:4567/",
 ```
-
+Then Run:
 ```
 $ vagrant up
+```
+
+Access to the web:
+```
+http://localhost:4567/phpinfo.php?XDEBUG_SESSION_START=sublime.xdebug
 ```
 
