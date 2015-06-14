@@ -1,0 +1,19 @@
+{
+    "folders":
+    [
+        {
+        "follow_symlinks": true,
+	    "path": "."
+        }
+    ],
+    "settings": {
+        "xdebug": {
+	    "path_mapping": {
+                 "/vagrant" : "/home/ni/workspace/vagrant/test",
+            },
+            "url": "http://localhost:4567/",
+            "super_globals": true,
+            "close_on_stop": true
+        }
+    }
+}
