@@ -47,4 +47,7 @@ Access to the web:
 ```
 http://localhost:4567/phpinfo.php?XDEBUG_SESSION_START=sublime.xdebug
 ```
+Using Chrome Xdebug addon:
+
+https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc?hl=en-US
 
