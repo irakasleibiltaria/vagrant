@@ -36,25 +36,6 @@ then, replace the content of the file ```.sublime.project```
 }
 ```
 
-In Mac OSX:
-```
-{
-    "folders":
-    [
-        {
-            "follow_symlinks": true,
-            "path": "."
-        }
-    ],
-    "settings": {
-        "xdebug": {
-             "url": "http://localhost:4567/",
-                "path_mapping": {"/vagrant/" : "/Users/username/vagrant/vagrant-php/"}        
-        }
-    }
-}
-```
-
 Note: "/home/username/workspace/vagrant/test": is the absolute path where is located the project files
 
 
