@@ -26,7 +26,7 @@ then, replace the content of the file ```.sublime.project```
     "settings": {
         "xdebug": {
 	    "path_mapping": {
-                 "/vagrant" : "/home/username/workspace/vagrant/test",
+                 "/vagrant/" : "/home/username/workspace/vagrant/test/",
             },
             "url": "http://localhost:4567/",
             "super_globals": true,
