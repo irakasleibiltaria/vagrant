@@ -52,3 +52,9 @@ Using Chrome Xdebug addon:
 
 https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc?hl=en-US
 
+## Xdebug using PhpStorm
+
+http://www.sitepoint.com/install-xdebug-phpstorm-vagrant/
+
+
+
