@@ -56,5 +56,10 @@ https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdg
 
 http://www.sitepoint.com/install-xdebug-phpstorm-vagrant/
 
+Config file in Ubuntu:
+```
+~/.WebIde80
+
+```
 
 
